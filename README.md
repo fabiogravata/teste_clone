@@ -7,3 +7,4 @@ testando interface gráfica do git hub no vscode
 
 você é merda
 versão mergeada
+novo conflito local
