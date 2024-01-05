@@ -6,3 +6,4 @@ arquivo editado para teste de novo commit
 testando interface gráfica do git hub no vscode
 
 você é merda
+versão git hub
